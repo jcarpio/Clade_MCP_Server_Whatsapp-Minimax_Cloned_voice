@@ -25,7 +25,7 @@ This comprehensive guide documents the complete process of setting up Claude Des
 
 - **WhatsApp MCP Server**: [https://github.com/lharries/whatsapp-mcp/tree/main](https://github.com/lharries/whatsapp-mcp/tree/main)
 - **Minimax MCP Server**: [https://github.com/MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP)
-- **Setup Tutorial Video**: [https://www.youtube.com/watch?v=1xwAl284fJ8](https://www.youtube.com/watch?v=1xwAl284fJ8)
+- **Video example**: [https://www.youtube.com/watch?v=1xwAl284fJ8](https://www.youtube.com/watch?v=1xwAl284fJ8)
 
 ## Step 1: Install uv Package Manager
 
